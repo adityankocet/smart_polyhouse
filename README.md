@@ -9,3 +9,7 @@ The objective of smart polyhouse farming are -
 To provide a controlled environment for plants to grow.
 Reduce water usage and pesticide/fertilizer use.
 Increase crop yield and improve crop quality.
+
+How to use this code :-
+
+This code is used to maintain the temperature , soil moisture, humidity and light intensity by controlling the actuators such as ventilation fan, bulb and water spray.
